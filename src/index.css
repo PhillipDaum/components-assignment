@@ -1,0 +1,15 @@
+:root {
+  /* how does this work? */
+  color-scheme: light dark;
+  --night: #0C090D;
+  --tomato: #F15946;
+  --amaranth: #E01a4f;
+  --saffron: #f9c22e;
+  --moonstone: #53b3cb;
+}
+
+body {
+  margin: 0;
+  background-color: var(--night);
+ 
+}

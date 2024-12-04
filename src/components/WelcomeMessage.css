@@ -1,0 +1,7 @@
+.welcome-message {
+    font-size: 2rem;
+    border: var(--tomato), solid, .2rem;
+    color: var(--moonstone);
+    padding: .5rem;
+    border-radius: .5rem;
+}
